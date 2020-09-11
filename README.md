@@ -1,4 +1,4 @@
-# Пример REST сервиса на Spring Boot - третий
+# Пример REST сервиса на Spring Boot + RestTemplate client(примеры)
 
 Общие сведения:
 -----------------
@@ -8,6 +8,8 @@
 --------------------------------------
     Пример CRUD Restful Web Service c Spring Boot
         https://o7planning.org/ru/11645/crud-restful-web-service-with-spring-boot-example
+    Пример Spring Boot Restful Client c RestTemplate
+        https://o7planning.org/ru/11647/spring-boot-restful-client-with-resttemplate-example#a13887020
 
 Сборка и запуск:
 --------------------------------------
