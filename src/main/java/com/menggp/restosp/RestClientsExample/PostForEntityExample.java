@@ -16,7 +16,7 @@ public class PostForEntityExample {
     public static void main(String[] args) {
         RestTemplate restTemplate = new RestTemplate();
 
-        String empNo = "E12";
+        String empNo = "E11";
 
         Employee newEmployee = new Employee(empNo, "Adam", "staff");
 
